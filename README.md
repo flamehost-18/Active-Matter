@@ -203,4 +203,4 @@ This repository serves as the official landing page for Active Matter. The softw
 **Get the most recent version of Active Matter today!**
 
 ---
-**Last updated:** 2026-11-07 18:25:54 UTC
+**Last updated:** 2026-11-07 22:27:03 UTC
